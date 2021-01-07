@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pjc-frontend"
+    }
+  },
+  "defaultProject": "pjc-frontend",
+  "cli": {
+    "analytics": "43130457-31be-4b88-8f3b-b11089a0eb0e"
+  }
 }
